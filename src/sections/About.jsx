@@ -19,7 +19,7 @@ export default function About() {
           >
             <Box
               component="img"
-              src="public\images\aboutimg.svg" // put image in public folder
+              src="public/images/aboutimg.svg" // put image in public folder
               alt="My profile"
               sx={{
                 width: '100%',
