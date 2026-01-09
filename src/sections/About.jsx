@@ -2,6 +2,8 @@ import React from 'react'
 import { Typography, Box, Grid } from '@mui/material'
 import { motion } from 'framer-motion'
 
+
+
 export default function About() {
   return (
     <Box sx={{ px: { xs: 2, md: 6 }, py: 6 }}>
@@ -19,7 +21,7 @@ export default function About() {
           >
             <Box
               component="img"
-              src="public/images/aboutimg.svg" // put image in public folder
+              src="public/images\aboutimg.svg" // put image in public folder
               alt="My profile"
               sx={{
                 width: '100%',
