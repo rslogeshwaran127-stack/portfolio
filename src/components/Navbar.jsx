@@ -100,7 +100,7 @@ export default function Navbar() {
                   onClick={(e) => handleScroll(e, link)}
                   sx={{
                     textTransform: "none",
-                    fontWeight: 600,
+                    fontWeight: 300,
                     mr: 1,
                     alignItems: "center",
                     color: color,
