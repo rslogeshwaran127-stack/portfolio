@@ -85,7 +85,7 @@ export default function ResumePage() {
         <Box sx={{ flex: 1, p: 4 }}>
           <Typography variant="h4" fontWeight="bold">
             My Resume
-          </Typography>
+          </Typography> 
 
           <Typography sx={{ mt: 2, color: "text.secondary" }}>
             Download my resume to explore my professional experience, skills,
